@@ -1,2 +1,2 @@
-# produk-kecantikan
-ini adalah website tugas tentang produk kecantikan fika ureska
+# Portofolio Fika Ureska
+ini adalah website tugas Portofolio Fika Ureska Priodi Sistem Informasi
